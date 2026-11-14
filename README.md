@@ -1,4 +1,4 @@
-# Enterprise Knowledge Intelligence & Decision Copilot
+# Enterprise Knowledge Intelligence & Decision Copilot (OCHOBOT)
 
 A RAG-based GenAI app: upload company documents, ask questions with source citations,
 summarise, compare documents, and generate action items.
