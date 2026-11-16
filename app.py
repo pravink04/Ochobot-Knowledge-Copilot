@@ -102,7 +102,7 @@ def badge(level: str):
 
 # ======================= SIDEBAR =======================
 with st.sidebar:
-    st.markdown('<div class="side-title">OchoBot</div>'
+    st.markdown('<div class="side-title">Knowledge Base</div>'
                 '<div class="side-sub">Upload documents, then choose what to search.</div>',
                 unsafe_allow_html=True)
 
